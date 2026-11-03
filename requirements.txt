@@ -1,2 +1,3 @@
-flask 
-pillow
+flask>=3.0
+pillow>=10.0
+gunicorn>=21.2
